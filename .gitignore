@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/dist
 
 # testing
 /coverage
@@ -25,3 +26,4 @@ yarn-error.log*
 *__snapshots__/*
 __snapshots__
 
+dist

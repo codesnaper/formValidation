@@ -1,10 +1,15 @@
 {
-  "name": "form-validation",
-  "version": "1.0.0",
+  "name": "react-form-validator-lib",
+  "version": "1.0.1",
   "keywords": [
     "react form error",
     "react form",
-    "react form validation"
+    "react form validation",
+    "ract",
+    "form",
+    "validators",
+    "validate",
+    "validation"
   ],
   "homepage": "https://github.com/codesnaper/formValidation/blob/main/README.md",
   "bugs": {
@@ -23,7 +28,6 @@
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "private": true,
   "dependencies": {},
   "files": [
     "/dist"

@@ -4,7 +4,7 @@ Library will provide support for creating form object along with validation
 ## Install
 
 ```bash
-$ npm install form-validation --save
+$ npm install react-form-validator-lib --save
 ```
 
 ## Usage

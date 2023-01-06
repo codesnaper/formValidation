@@ -1,20 +1,24 @@
 {
   "name": "form-validation",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "react form error",
     "react form",
     "react form validation"
   ],
-  "homepage": "https://github.com/owner/project#readme",
+  "homepage": "https://github.com/codesnaper/formValidation/blob/main/README.md",
   "bugs": {
-    "url": "https://github.com/owner/project/issues",
-    "email": "project@hostname.com"
+    "url": "https://github.com/codesnaper/formValidation/issues",
+    "email": "shubham.e.khandelwal@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codesnaper/formValidation.git"
   },
   "license": "OSL-1.0",
   "author": {
     "name": "Shubham Khandelwal",
-    "email": "shubham.khandelwal019@gmail.com",
+    "email": "shubham.e.khandelwal@gmail.com",
     "url": "https://www.linkedin.com/in/shubham-khandelwal1910/"
   },
   "main": "dist/index.js",
